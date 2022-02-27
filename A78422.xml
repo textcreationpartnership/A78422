@@ -1,0 +1,605 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The depths of Satan discovered: or, the Jesuits last design to ruine religion. Being, some observations upon a pamphlet, called, The swords abuse asserted: by John Vernon. Presented to the consideration of the Armie. Citie. Kingdome. / By Philopatrius Philalethes.</title>
+            <author>Cawdrey, Daniel, 1588-1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78422</idno>
+            <idno type="STC">Wing C1625</idno>
+            <idno type="STC">Thomason E539_1</idno>
+            <idno type="STC">ESTC R205694</idno>
+            <idno type="EEBO-CITATION">99864998</idno>
+            <idno type="PROQUEST">99864998</idno>
+            <idno type="VID">117231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117231)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E539[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The depths of Satan discovered: or, the Jesuits last design to ruine religion. Being, some observations upon a pamphlet, called, The swords abuse asserted: by John Vernon. Presented to the consideration of the Armie. Citie. Kingdome. / By Philopatrius Philalethes.</title>
+                  <author>Cawdrey, Daniel, 1588-1664.</author>
+               </titleStmt>
+               <extent>[6], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright, at the Kings Head in the Old-Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Philopatrius Philalethes = Daniel Cawdrey.</note>
+                  <note>The words "Armie. ... Kingdome." are bracketed together on title page.</note>
+                  <note>Annotations on Thomason copy: "Jan: 22 1648"; the "9" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vernon, John, fl. 1666. --  Swords abuse asserted --  Early works to 1800.</term>
+               <term>Jesuits --  Controversial literature --  Early works to 1800.</term>
+               <term>Religion and politics --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117231:1" rendition="simple:additions"/>
+            <pb facs="tcp:117231:1" rendition="simple:additions"/>
+            <p>THE Depths of Satan DISCOVERED: <hi>OR,</hi> The Jeſuits laſt Deſign to Ruine RELIGION. <hi>BEING,</hi> Some Obſervations upon a Pamphlet, called, <hi>The Swords Abuſe Aſſerted:</hi> By JOHN VERNON.</p>
+            <p>Preſented to the Conſideration Of the
+<list>
+                  <item>
+                     <hi>Armie.</hi>
+                  </item>
+                  <item>
+                     <hi>Citie.</hi>
+                  </item>
+                  <item>
+                     <hi>Kingdome.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By PHILOPATRIUS PHILALETHES.</p>
+            <q>
+               <bibl>
+                  <hi>REV. 2.24.</hi>
+               </bibl>
+               <p>To as many as have not this Doctrine, and which have not knowne the Depths of Satan.</p>
+               <bibl>
+                  <hi>2 PET. 2.18, 19.</hi>
+               </bibl>
+               <p>For when they ſpeake great ſwelling Words of Vanitie, they allu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e through the Luſts of the fleſh, &amp;c. Thoſe that were cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e eſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aped from them who live in Errour. While they promiſe them Libertie, they themſelves are the ſervants of Corruption.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Wright,</hi> at the Kings Head in the <hi>Old-Bayley.</hi> 1649.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117231:2"/>
+            <pb facs="tcp:117231:2"/>
+            <head>To the truely Chriſtian Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is very well knowne, to every underſtanding Chriſtian, that there are two maine Pillar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of a Reformed State, the two great Ordin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>ces of God. <hi>Magiſtracie</hi> and <hi>Miniſtrie:</hi> And its as eaſily obſeruable, that many there are, (whether ignorantly, or intentially) who are, <hi>Sampſon<g ref="char:punc">▪</g>
+               </hi> like, laying hold of thoſe two Pillars, though they pull downe therewith, the houſe of the Kingdome and Church, upon their owne and others heads. How much the latter, (the <hi>Miniſtrie</hi>) hath beene undermind in all times, eſpeci<g ref="char:EOLhyphen"/>ally within theſe laſt dozen yeares, there's no obſerving Chriſtian but hath taken notice. What <hi>Innovaſions</hi> and ſubſcriptions, have beene Impoſed upon godly and faith<g ref="char:EOLhyphen"/>full Miniſters, by the <hi>Prelates,</hi> to drive them from their Stations, and out of the Kingdome, who doth not yet re<g ref="char:EOLhyphen"/>member? Within theſe laſt ſeven yeares the ſame Deſigne hath beene carryed on, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in another dreſſe. The great ſe<g ref="char:EOLhyphen"/>ſuiticall Project (for they lye behind the Curtaine, and Act it) hath beene to make the Miniſters (whom they could not corrupt) and Miniſtrie, vile and contemptible, which hath proceeded to a very high degree. The <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to effect it hath beene this: Firſt, To poure out upon them whole Dung<g ref="char:EOLhyphen"/>carts of the vileſt Reproaches in Pamphlets, that ever
+<pb facs="tcp:117231:3"/> Chriſtian eare heard, thereby to expoſe them to the ſcorne of the people, and ſo to nullifie the Succeſſe of their Mini<g ref="char:EOLhyphen"/>ſtrie. Secondly, To cry downe their Office, either as Anti<g ref="char:EOLhyphen"/>chriſtian, or none, Setting up Preachers of the baſiſt of the people, (as <hi>Jeroboam</hi> made Prieſts) admiring and ado<g ref="char:EOLhyphen"/>ring them above the moſt Learned, Faithfull, able Min<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſters of the G ſpell; from whom, as Inſtruments under G d, they re<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ved the knowledge and grace they have, (if they have any) yet now contemne them (which true grace cannot doe) as the dirt under their feet. Thirdly, To cry downe Learning, Arts, <g ref="char:V">Ʋ</g>niverſities, as uſeleſſe; pre<g ref="char:EOLhyphen"/>tending to new <hi>Revelations,</hi> which are the m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er deluſions of Satan. Fourthly, The laſt, but not leaſt deſtructive, to cry downe their ſetled Maintenance by Tithes<g ref="char:punc">▪</g> and leave them to the cold and comfortleſſe-Charitie of the people, which will ſtarve them out that are in, and keepe others from entring in. (This alone will doe it) if the reſt faile.</p>
+            <p>For the former (the <hi>Magiſtracie</hi>) it hath beene the long policie of <hi>Antichriſt;</hi> to perſwade the world, that the <hi>Chriſtian Magiſtrate,</hi> hath nothing at all to doe in matters of <hi>Religion,</hi> that ſo he might uſurpe that power into his owne hands. This damnable Doctrine, deſtructive to Reli<g ref="char:EOLhyphen"/>gion, to State and Church, hath long beene contended a<g ref="char:EOLhyphen"/>gainſt by all the <hi>Reformed Churches,</hi> and their Learned Champions.</p>
+            <p>And little could wee expect, that any men, that pretend to <hi>Reformation,</hi> ſhould herein have complyed with them. But our feare and jealouſie is, they are acted and agitated, either by ſtrong deluſions of Satan, or by the ſubtile Inſinu<g ref="char:EOLhyphen"/>ations of diſguiſed Jeſuites, who have now at laſt tranſ<g ref="char:EOLhyphen"/>from'd themſelves into <hi>Angels</hi> of <hi>Light,</hi> in ſtead of their former <hi>fierce</hi> heat. It's knowne to all the world, that the
+<pb facs="tcp:117231:3"/> Proteſtant Religion in <hi>England</hi> is ſetled by Parliamenta<g ref="char:EOLhyphen"/>rie Power, and Lawes by them eſtabliſhed: And whilſt that ſtands in its faithfulneſſe and vigour, Poperie is not like to enter here. Many wayes have beene attempted, either to corrupt it, or breake it, in former and later times; but, bleſſed be God, all in vaine. But now of late, there is at once a double deſigne upon it; to breake the Being of it, and the Authoritie of it in matters of Religion, together, or if not both, the latter. And this is the deſigne of the Pamphlet, entituled, <hi>The Swords abuſe aſſerted.</hi> Whither this Gentleman, the Author of it, or any in the Army, have ſuch Intentions, I dare not ſay; but the Poſitions, lately offered to the world, doe clearely ponderate that way. This I find to be his Principle, deſtructive enough, which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he aſſerts, <hi>pag. 15.</hi> 
+               <q>That Chriſtians and Heathens in Civill Affaires, are alike ſubjected to the Civill Sword, but neither ſubject in Religious cauſes; and there can be no Reſtraint, where there muſt be no Superioritie; than which, no <hi>Jeſuite</hi> could have ſpoken worſe.</q> This he ob<g ref="char:EOLhyphen"/>ſcurely hinted in his Title Page, but kept it for a <hi>Reſerve,</hi> till he had baffled his Readers eyes with ſome appearance of reaſons againſt <hi>Reſtraint,</hi> which is but one part of the Magiſtrates power. Wee ſhall weigh what he ſayes, and cleare up to the Reader, <hi>The Depths of Satan</hi> vailed therein.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117231:4"/>
+            <pb facs="tcp:117231:4"/>
+            <head>The Depths of Satan DISCOVERED.</head>
+            <argument>
+               <head>Quaere.</head>
+               <p>Whether the Civill Magiſtrate, though he ſhall not compell, yet may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot reſtraine thoſe who profeſſe not Chriſtianitie, from divulging their Principles, eſpecially by viſible worſhip, or practiſe in Idolary?</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">B</seg>Efore I come to debate this Controverſie, I ſhall ſay ſomething by way of diſtinction, to the ſta<g ref="char:EOLhyphen"/>ting of the queſtion.</p>
+            <p n="1">1. For the Title of the Booke, it might very well paſſe, in a right ſenſe, as applyed to the diſtempers of the Times. If he mean it of them, to whom he ſpeakes, as he ſeemes to doe in that Dedication, <hi>A word to the Armie,</hi> viz. That it is an Abuſing of the <hi>Martiall Sword,</hi> to take upon them to determine of matters of Religion, or to take power to themſelves to limit or extend the Libertie thereof: Wee ſhould eaſily agree with him, to aſſert it a very great Abuſe, for them, a Parliament ſitting, (from whom they have their Commiſſion onely for Martiall Affaires) to intermedle in matters of Religion, <hi>as beyond their Spheare,</hi> as he ſpeakes. But if he meane,<note place="margin">pag. 3.</note> (as he expreſſely diſ<g ref="char:EOLhyphen"/>covers himſelfe, <hi>pag.</hi> 15.) That the Supreme Magiſtrate, hear<g ref="char:EOLhyphen"/>ing
+<pb n="2" facs="tcp:117231:5"/> the Civill Sword, hath nothing to doe, about matters of Religion, he abuſes his Reader and his owne Reaſon, to under<g ref="char:EOLhyphen"/>take to aſſert it; as ſhall appeare in the ſequell.</p>
+            <p n="2">2. Wee diſtinguiſh of Temple-worke, (as his Title Page calls it:) If he meane it thus, That the Sword is an uſeleſſe Toole (his owne phraſe) for the firſt Erecting or Conſtituting Members of a Church, gathered out from Heathens, that is for the Converſion of men to the Chriſtian Faith; its readily granted: For Chriſts ſubjects, muſt be all volunteers, a willing people. But if he meane, that in a conſtituted Church, the Chriſtian<g ref="char:punc">▪</g> Magiſtrate hath nothing to doe, to reſtraine men from the violation of Chriſtian Truths, or the Rules of Reli<g ref="char:EOLhyphen"/>gious worſhip, in the externall Profeſſion and exerciſes there<g ref="char:EOLhyphen"/>of; he ſhall find himſelfe miſerably miſtaken. Converſion of Soules belongs primarily to Chriſt, by the operation of his Spirit; inſtrumentally to the Miniſters of Chriſt: But when men are converted to the faith and profeſſion of the Goſpell, and have embraced the Truths and worſhip of it, if then they ſhall blaſpheme or corrupt thoſe Truths, or prophane that worſhip, the Magiſtrate, (wee thinke) hath power to reſtraine, yea, and to puniſh them for that violation.</p>
+            <p n="3">3. Converſion it ſelfe, is two wayes conſiderable; either with reſpect to the Conſcience, which wee may call the inter<g ref="char:EOLhyphen"/>nall reall Converſion to the Faiths being made thereby tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> beleevers; and this is the worke of Chriſts Propheticall and Kingly Office; or elſe with reſpect to the outward Profeſſion of the Faith: This latter is the object of the Magiſtrates power, in regard of regulation of it, according to the Rules of the word; for he is made the Keeper of both Tables, in regard of the externall acts and exerciſes thereof.</p>
+            <p n="4">4. Its one thing for the Magiſtrate to preſcribe a <hi>Rule of Faith</hi> (as the Pope preſumes) or a forme of worſhip of God; a<g ref="char:EOLhyphen"/>nother to look to the <hi>preſervation</hi> of both (preſcribed by Chriſt) from the corruption of Seducers and Falſe Teachers, or the violation of prophane men:<note place="margin">As he, pag. 4.</note> 
+               <q>The ordering of the viſible worſhip of God, as he ſpeaks, and the ordaining of the Rule of Faith, whereunto all are alike ſubject, &amp;c. belonge entire<g ref="char:EOLhyphen"/>ly and ſolely to Jeſus Chriſt.</q>
+            </p>
+            <p n="5">
+               <pb n="3" facs="tcp:117231:5"/>5. Wee note one notable fallacie all along this Diſpute<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Pamphlet; that is, <hi>Petitio principii,</hi> that he ſeemes to inſinuate it as granted, (which many others of his way doe) That there is no Rule of Faith or Worſhip determined, or held forth in the word; but all is now Skepticall: (Sure wee are, there is ſcarcely one Truth but it is queſtioned in this Age.) For if there be any one Fundamentall Principle of Truth, or Rule of Worſhip, held forth clearely in the Scripture; the Blaſphe<g ref="char:EOLhyphen"/>ming of that Truth, and teaching men ſo; the Prophaning of that Worſhip, and practiſing ſo, may be reſtrained by the Magiſtrate; yea, and puniſhed too, as wee think: And yet this very Reſtraint or puniſhment is deceyed and beaten downe by the force of this mans Arguments; which what ſtrength they have, ſhall now be conſidered.</p>
+            <p>
+               <q>Firſt, he ſayes; His capacitie cannot diſcerne the diſtin<g ref="char:EOLhyphen"/>ction betwixt the Compulſive and Reſtrictive Power; being fully perſwaded, the former is ſufficiently included in the latter; And he who hath power for the latter, ſhall by fre<g ref="char:EOLhyphen"/>quent reſtraining, upon every frivolous occaſion, make mee reſtleſſe till I read his pleaſure: That I worſhip as he wor<g ref="char:EOLhyphen"/>ſhips, and ſo I feele his power to the former, &amp;c.</q>
+            </p>
+            <p>To which I anſwer: Firſt, Surely then his capacitie is very narrow and ſhallow, the diſtinction is ſo cleare and evident. An inſtance is readie in <hi>Nebem.</hi> 13. concerning the fourth Commadement, one of the firſt Table, and a part of wor<g ref="char:EOLhyphen"/>ſhip: <hi>Nehemiah</hi> did not compell the Heathen Merchants to keepe the Sabbath in the preſcribed manner, yet did he re<g ref="char:EOLhyphen"/>ſtraine them from polluting of it. Secondly, It is ſo farre from Truth, that the fromer is included in the latter, as that in<g ref="char:EOLhyphen"/>ſtance and many more demonſtrate, that it is rather true back<g ref="char:EOLhyphen"/>ward; that the latter Reſtriction is included in the former Compulſion, not Compulſion in Reſtriction. Thirdly, The <hi>Jewiſh</hi> Magiſtrates did reſtraine Heathens from the Pro<g ref="char:EOLhyphen"/>phanation of the Sabbath, and other Services, yet never did, nor might compell them to the obſervation of them till they voluntarily Proſelyted: And this Reſtraint was thus farre be<g ref="char:EOLhyphen"/>neficiall, that it prevailed to bring them to Proſelyte to the
+<pb n="4" facs="tcp:117231:6" rendition="simple:additions"/> 
+               <hi>Jewiſh</hi> Religion, that they might enjoy the Priviledges of it: And if Reſtraint of Seducers and falſe-Worſhippers have the ſame effect upon them, to bring them to embrace the true Faith and right Worſhip of God, I know no hurt they have by it. A Stranger (ſaid the Law) ſhall not eat of the Paſſeover, nor enter into the Temple till circumciſed; And this difference in partaking of many priviledges, was a mercie to the <hi>Gentiles,</hi> to win them to come in, for the priviledge ſake. There are many ſuch Lawes of Reſtraint in all States, which yet never come to Compulſion; as he cannot but know. But,</p>
+            <p>
+               <q>Though the Reſtrictive may be different, yet it ever cen<g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d in the Compulſive; and the moſt cruell of Tyrants have firſt appeared in the Reſtrictive, &amp;c.</q> But this, if it be not a contradiction, is contrary to what he ſaid afore: There he ſaid, Compulſion was included in Reſtriction: Now Re<g ref="char:EOLhyphen"/>ſtriction centers in Compulſion. Secondly, That word <hi>(Ever)</hi> is falſe, and contrary to manifold experience, as afore. And marke the Logick of theſe men; they commonly con<g ref="char:EOLhyphen"/>clude a generall, from one or two particulars. Tyrants, (as the <hi>Phariſees</hi> and <hi>Jewes</hi>) have ſometimes appeared in the <hi>Re<g ref="char:EOLhyphen"/>ſtrictive,</hi> before the <hi>Compulſive;</hi> no Reſtriction ever centers in Compulſion. Thirdly, Nor is the <hi>Reſtraint,</hi> to force them that obey it not, to the contrarie practiſe: Nor does Compul<g ref="char:EOLhyphen"/>ſion come as the conſequent thereof: If any puniſhment fol<g ref="char:EOLhyphen"/>low, it is for diſobedience to the Law of Reſtraint, <hi>E. G. Nehe<g ref="char:EOLhyphen"/>miah</hi> reſtraines the Heathens for ſelling wares on the Sabbath dayes; and threatens to lay them in <hi>durance,</hi> if they did tranſ<g ref="char:EOLhyphen"/>greſſe that Prohibition: but he never intended by the Re<g ref="char:EOLhyphen"/>ſtraint or puniſhment, to compell them to obſerve the <hi>Sabbath,</hi> as the <hi>Jewes</hi> did, in Religious Sanctification of it. Laſtly, To prevent this conſequent Compulſion, let it be made a Law, that no man, ſhall openly Blaſpheme the Truth of God, or Prophane the worſhip of God; and if he doe not, he ſhall not be compelled to beleeve as the Magiſtrate beleeves, or worſhip as the Magiſtrate worſhips: And as this may ſuffice for his ſecuritie againſt Compulſion, ſo it clearely puts a diffe<g ref="char:EOLhyphen"/>rence between Reſtriction and Compulſion: Conſider the next.</p>
+            <pb n="5" facs="tcp:117231:6"/>
+            <p>Secondly, Hereby (ſayes he) <q>I make the Civill Magiſtrate Judge of Chriſtianitie, which as none can aſſume without ſinne, 2 <hi>Cor.</hi> 1.24. So none can conſent to, without being guiltie of ſtrong endeavours to dethrone the Lord Jeſus to whom alone this judgement is committed, and whoſe Scep<g ref="char:EOLhyphen"/>ter onely can ſway the Conſcience, &amp;c.</q>
+            </p>
+            <p n="1">1. Let him apply this to the ſtate of the <hi>Jewes,</hi> and ſee how in conſequent it is. The Magiſtrate then had power to judge of the Rule of Worſhip, without ſinne; elſe, how could he Reſtraine men (or puniſh them) for tranſgreſſing the Rule? And if the Rule of Chriſtian Truth, and Worſhip, be as clear<g ref="char:EOLhyphen"/>ly preſcribed in the new Teſtament (as it is) why may not the Chriſtian Magiſtrate, be as competent a Judge of Chriſtianity, and Reſtraine from the violation of it?</p>
+            <p n="2">2. It is equivocall, the word <hi>(Judge)</hi> and ſo he deludes us: It is one thing to be a Law-maker, which is (as his Text hath it) to have Dominion over their Faith, by preſcribing a Rule of Faith, or Worſhip: Another to be a Judge of the Violati<g ref="char:EOLhyphen"/>on of that preſcribed Rule: The Apoſtle <hi>Paul</hi> himſelfe was a competent Judge of the Rule of Faith, and ſo of the Violati<g ref="char:EOLhyphen"/>on of it; though he was not the <hi>Lord</hi> of their <hi>Faith,</hi> to coine new Articles of Faith, without command from Chriſt: Say the ſame of the preſcribed Worſhip: Nor is this to conſent to the dethroning of Jeſus Chriſt, nor to take upon them to Sway the Conſcience: For wee ſuppoſe the Rule of Worſhip preſcribed, and the Magiſtrate to have power only upon the ex<g ref="char:EOLhyphen"/>ternall man, to preſerve from the violation of that worſhip; not to Compell or Sway Conſciences or Hearts, to worſhip God aright with internall worſhip. Therefore this Diſputer, (whether ignorantly or fallaciouſly, I know not) deceives his diſciples with a double falſe ſuppoſition: Firſt, That there is no certaine,<note n="*" place="margin">He cannot expect a con<g ref="char:EOLhyphen"/>currence of a<g ref="char:EOLhyphen"/>ny partie con<g ref="char:EOLhyphen"/>ſiderable in the Nation, in Principles of Chriſtianitie, <hi>pag.</hi> 8.</note> determin'd, cleare Rule of Faith or Worſhip, in the Scriptures, but all is doubtfull and uncertaine, without Revelation: Secondly, That the Magiſtrate by this Reſtricti<g ref="char:EOLhyphen"/>on; intends Compulſion, and that of Conſcience, to beleeve or practiſe, what it doth not beleeve, to be the Rule of Faith or Worſhip: And withall, that thoſe that grant him this power
+<pb n="6" facs="tcp:117231:7"/> of Reſtraint, give him a Power to Sway Conſcience, ſo to be<g ref="char:EOLhyphen"/>leeve or practiſe; which wee diſclaime as much as himſelfe. Nor doth the Magiſtrate by this Reſtraint of Seducers or Ido<g ref="char:EOLhyphen"/>laters, take upon him to convert Soules, (the worke of Jeſus Chriſt alone) but to keepe them from infecting others, by falſe Doctrine or falſe Worſhip; and in the end, to reduce the E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ro<g ref="char:EOLhyphen"/>neous to the right wayes of God.</p>
+            <p n="3">3. The inſtance of <hi>Pauls</hi> Reſtrictive Power on <hi>Mars-hill,</hi> in quite beſide the queſtion: He was a <hi>Miniſter,</hi> not a <hi>Magiſtrate;</hi> and the worke being Converſion of Heathens to the Faith: for the Conſtitution of a Church, not in a Church Conſtitu<g ref="char:EOLhyphen"/>ted: For I demand, If after <hi>Paul</hi> had ſetled a Church, and given them the Rule of Faith and Worſhip, any Profeſſour thereof ſhould have Apoſtated from both, or either; whether he would not by his Apoſtolicall power, have reſtrained him, by Church cenſures? If ſo, his Texts and proofes falls as hea<g ref="char:EOLhyphen"/>vily upon the Eccleſiaſticall power, as upon the Civill: and all his abſurdities pretended here, fall upon S. <hi>Paul:</hi> 
+               <q>He makes himſelfe a Judge of Chriſtianitie, and conſents to the de<g ref="char:EOLhyphen"/>throning of Chriſt; takes upon him to Sway the Conſcience, and convert hearts, which is peculiar to the Scepter of Chriſt, &amp;c.</q> But this Doctrine, tends evidently to nothing but <hi>Skepticiſme,</hi> and Prophaneſſe; that every man may not onely beleeve, but publiſh and practiſe Errours and Idolatry, without controle, either of Magiſtrate or Miniſter. And thi<g ref="char:EOLhyphen"/>ther wee ſee it inclines apace, and there wee feare it will end, if not betimes prevented. But further,</p>
+            <p>
+               <q>He gives a caution: That if Chriſt ſend a Servant, ſay<g ref="char:EOLhyphen"/>ing, What I have revealed to you in ſecret, preach you on the houſe tops. Goe to the publique Synagoge in this Seaſon of their aſſembling, which otherwiſe you cannot procure; Goe, I ſay, and reaſon with them, for they are in all things too Superſtitious: Doe not you runne the hazard of reſtrai<g ref="char:EOLhyphen"/>ning in this caſe, under pretence of diſturbance: If their publique way be according to the way of Chriſt, the privi<g ref="char:EOLhyphen"/>ledge of Diſputing is according to the Directory of Chriſt, 1 <hi>Cor.</hi> 14, 22. It not, &amp;c.</q>
+            </p>
+            <pb n="7" facs="tcp:117231:7"/>
+            <p>To this wee ſay, Firſt, This man ſeemes to be a meere <hi>Skep<g ref="char:EOLhyphen"/>tick,</hi> and (as was ſaid afore) to ſuppoſe there is no <hi>Rule</hi> of Truth or Worſhip preſcribed; and the times to be, as in the Apoſtles dayes, before the New Teſtament was written: And withall, he ſeemes to be a <hi>Familiſt,</hi> expecting Revelations, which <q>he inſinuates in thoſe words, [What I have revealed to you in ſecert] And yet afore, he calls the Armie to direct them<g ref="char:EOLhyphen"/>ſelves [by Chriſts proclaimed Law as their Line; at leaſt for the worke of his owne worſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p and Temple, <hi>pag.</hi> 3.] and to meaſure their proceedings herein by the pattern of his Scrip<g ref="char:EOLhyphen"/>tures.]</q> But it is no new thing for Errours to <hi>interſere</hi> and contradict themſelves. For, if there be any certaine Rule of Truth or Wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhip, what reaſon is there, that any man, under pretence of New Light, ſhould have libertie to diſpute it? Is not this a plaine diſturbance of the Church? Suppoſe the publique <hi>way</hi> be the <hi>Way</hi> of Chriſt, why ſhould any man diſ<g ref="char:EOLhyphen"/>pute it over and over againe? What need he goe and reaſon with them, who are in nothing Erroneous or Superſtitious, but obſervant of the way of Chriſt? Will Chriſt ſend men to diſturbe his Setled Truths and Worſhip? And yet<g ref="char:punc">▪</g> if every man, that will pretend a new Revelation, may have liberty to diſpute the old wayes of Chriſt, and by a ſubtile wrangling Jeſuiticall wit, <hi>puzzle</hi> weake Chriſtians with new <hi>Skepticiſmes,</hi> nothing will more diſturbe the Peace of the Church, as was evident once in the Church of <hi>Galatia;</hi> and is in <hi>Ours</hi> at this day. <hi>I would they were cut off, that thus Trouble it;</hi> The privi<g ref="char:EOLhyphen"/>ledge of <hi>Diſputing,</hi> which he pleads from 1 <hi>Cor.</hi> 14. was before the <hi>Rule</hi> was written, when there was an extraordinarie gift of Propheſying, and new Revelations were diſcovered con<g ref="char:EOLhyphen"/>cerning the Truths of the Goſpell: <q>But the ſame Apoſtle cen<g ref="char:EOLhyphen"/>ſures this libertie after the Truth and Rule thereof was clear<g ref="char:EOLhyphen"/>ly delivered, 1 <hi>Tim.</hi> 6.3, 4, 5. [If any man teach otherwiſe, and conſent not to the wholeſome words, even the words of our Lord Jeſus Chriſt, and to the Doctrine which is accord<g ref="char:EOLhyphen"/>ing to Godlineſſe: He is proud, knowing nothing, doting about queſtions and ſtrifes of words, whereof commeth En<g ref="char:EOLhyphen"/>vie, Strife, Raylings, evill Surmiſings, (and mark that) per<g ref="char:EOLhyphen"/>verſe
+<pb n="8" facs="tcp:117231:8"/> Diſputings, of men of corrupt minds, and deſtitute of the Truth: from ſuch withdraw thy ſelfe: Where the Apo<g ref="char:EOLhyphen"/>ſtle meets juſt with the practiſes of our <hi>Times;</hi>]</q> Suppoſing, that when once the <hi>Forme of ſound words</hi> (as i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a called, 2 <hi>Tim.</hi> 1.13.) is delivered to the Church, and the <hi>Doctrine according <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Godlineſſe</hi> is once Setled, no man may have the libertie to <hi>Diſpute</hi> them: And if he doe, he is proud, doting (or ſick) and di<g ref="char:EOLhyphen"/>ſturbes the Peace of the Church. <q>He that thus <hi>troubles the Church, ſhall beare his judgement, who ever be he,</hi> Gal. 5.9.</q> But wee proceed.</p>
+            <p>Thirdly, <q>The conviction of the underſtanding being the foundation of Converſion, and that a facultie that cannot be forced, nor ſatisfied without an over-comming Reaſon; A powerfull Argument, would ſoone ſubdue that noble part, when civill Reſtraint would encreaſe prejudice, and confirme obſcuritie: Therefore the way of God is rather, Come, let us reaſon together, &amp;c.</q>
+            </p>
+            <p>But this man dreames of ſuch a <hi>Reſtraint,</hi> as never came in<g ref="char:EOLhyphen"/>to any rationall mans head. Was ever Reſtraint uſed as an ar<g ref="char:EOLhyphen"/>gument to convince or convert men? to make a man beleeve this or that without reaſon? No: The man ſhall be informed by the ſtrength of Scripture-Reaſon; and Light held forth to him, if he be able or willing to receive it: And if after all the beſt information, he cannot, or will not ſee that Light, he ſhall not be forced to beleeve or practiſe what he underſtands not to be the way of Chriſt. Onely, if he be in an Errour, in Doctrine or Worſhip (as wee ſuppoſe him to be, in this Diſ<g ref="char:EOLhyphen"/>pute) he ſhall be reſtrain'd, not from beleeving or practiſing ſecretly, his owne Erroneous way; but from <hi>venting</hi> his Error, or practiſing openly his Idolatrous worſhip, to the <hi>Infection</hi> of others; and this was ever Gods way: The <hi>Leaper,</hi> (ſuppoſe he did thinke himſelfe cleane) was not reſtrained to make him beleeve himſelfe a Leaper, but to prevent others infection: The ſame God that ſaid, Come, let us reaſon together; ſaid alſo, Thou ſhalt not ſuffer <hi>Seducers</hi> or <hi>Idolaters,</hi> or <hi>Sabbath-breakers,</hi> within thy gates: The ſame Apoſtle, which ſaid, <q>[I beſeech you brethren, by the mercies of God, &amp;c.] ſaid
+<pb n="9" facs="tcp:117231:8"/> alſo of Falſe Teachers, [whoſe mouths muſt be ſtopped, who ſubvert whole houſes, &amp;c. and I would they were cut off that trouble you.]</q>
+            </p>
+            <p>Oh (but ſayes he) A noble Spirit, a <hi>carnall Sword</hi> can never reſtraine! who attempts it, partakes of other mens Hypocriſie: But this ſuppoſes that noble Spirit to be in the <hi>right way,</hi> and the Magiſtrate to be in the <hi>wrong:</hi> Whereas we ſuppoſe (in this diſpute) the man to be in the wrong, and the Magiſtrate in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight. Secondly, It is not <hi>Reſtraint</hi> (of which wee ſpeake) that makes <hi>Hypocrites;</hi> but compulſion to make men beleeve or practiſe what they beleeve, not to be the wayes of Chriſt; which is not now the queſtion.</p>
+            <p n="4">4. <q>Humane reſtriction, is inconſiſtent with the very name and nature of the Goſpell, that a man cannot mention ſuch a thing, without including himſelfe amongſt the enemies thereof; It imparts nothing but a proffer of Peace, Love, &amp;c. even to the pooreſt Captives, flat Idolaters, &amp;c.</q>
+            </p>
+            <p>Here wee muſt diſtinguiſh, (what this <hi>Diſputer,</hi> ignorantly or Jeſuitically confounds) For the Converſion or firſt gathe<g ref="char:EOLhyphen"/>ring of a man or people, to make a Church, the Goſpell knowes nothing but Peace, &amp;c. But when a Church is Conſti<g ref="char:EOLhyphen"/>tuted, it hath a Rod of Cenſures for the Immorige<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous, Apo<g ref="char:EOLhyphen"/>ſtates, or Seducers: If be ſay, that's nothing to the Magiſtrate, but belongs to the Miniſters: I anſwer, let him looke to that; For his Argument ſtrikes at all Reſtriction, as well as Civill: (and ſo do all his Arguments.) The Goſpell imports (ſayes he) nothing but proffers of Peace, &amp;c. which in a conſtituted Church, is utterly falſe: But if the Civill Magiſtrate, being a Chriſtian, ſhould not interpoſe by a civill Reſtriction, to re<g ref="char:EOLhyphen"/>ſtraine Seducers, Idolaters, &amp;c. they would little regard the Eccleſiaſticall, to the great, not onely diſturbance of the Peace; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut utter ſubverſion of the Church.</p>
+            <p>
+               <q>But ſayes he; If your Preſid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt be from the Law (wherein indeed, ſuch reſtriction would better ſuit with litterall ſer<g ref="char:EOLhyphen"/>vice, eſpecially the Reſtrainers, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing as well. Typicall, as the Sacrificed<g ref="char:punc">▪</g> you are debter to the whole Law to doe it<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Chriſt ſhall profit you nothing.</q>
+            </p>
+            <pb n="10" facs="tcp:117231:9"/>
+            <p>This is firſt an <hi>Antinomian</hi> fancie, as may eaſily be obſerved, or a conceit of <hi>one,</hi> that denyes the authoritie of the Old Te<g ref="char:EOLhyphen"/>ſtament: For, though the Ceremoniall and Judiciall Lawes were Typicall, and ſo farre voyd; yet the Morall Lawes (by which the Magiſtrates power is eſtabliſhed) is ſtill in force; as is abundantly proved by others: The fourth Commandement gives Superiours power to reſtraine <hi>Sabbath-breakers;</hi> and more then that, to puniſh them, if Jewes, or Chriſtians; And the fifth Commandment gives Magiſtrates power to reſtrai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, (and puniſh) all wicked practiſes: Sayes not the Goſpell the ſame? <hi>Rom.</hi> 13.4. <q>[He is the Miniſter of God, a Revenger to execute wrath upon him that doth <hi>evill</hi>]</q> who ſhall diſtin<g ref="char:EOLhyphen"/>guiſh where the <hi>Law</hi> diſtinguiſhes not; and ſay, It reſpects wickedneſſes of the ſecond Table, not of the firſt?</p>
+            <p n="2">2. He would inſinuate, That the Services of the Old Teſta<g ref="char:EOLhyphen"/>ment were onely litterally, and ſo Typicall; whereas they had Morall ſervices alſo, and in them the power of the Magi<g ref="char:EOLhyphen"/>ſtrate apparently did interpoſe, upon the Prophanation of them.</p>
+            <p>And, 3. He would have his Reader beleeve, The Reſtrai<g ref="char:EOLhyphen"/>ners were alſo Typicall (as their Sacrifices were) and only Ty<g ref="char:EOLhyphen"/>picall, and in nothing Morall: whereas they had Moral Lawes, and exerciſed their Morall power, in Reſtraining or puniſhing offenders accordingly, as ſhall appeare. It is therefore a Scan<g ref="char:EOLhyphen"/>dalous wicked Cenſure, to ſay [The deſire after Civill Power to reſtraine, &amp;c. is the character of men not yet reformed by the power of the Goſpell] when both Law and Goſpell con<g ref="char:EOLhyphen"/>firme that power.</p>
+            <p>
+               <q>But he hath Scripture proofe, which cannot eaſily be eva<g ref="char:EOLhyphen"/>ded, <hi>Mat.</hi> 13.28. [You ſhall perceive a zealous ſervant for the honour of Chriſt, diſcerning clearely the enemies of Chriſt, and told they were ſuch, Idolaters, for they were the viſible children of the Divell, compared to Tares, &amp;c. Well, the ſervant deſires to deſtroy them; No, ſaith Chriſt, leaſt you pluck up the Wheat likewiſe: but might be not reſtrain them? No, let them grow: whence may be clearely and ſafely concluded, That men may not pluck up the ene<g ref="char:EOLhyphen"/>mies
+<pb n="11" facs="tcp:117231:9"/> of Chriſt, or reſtraine them by an human<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pow<g ref="char:EOLhyphen"/>er, &amp;c.]</q>
+            </p>
+            <p>This is the great place, and grand Argument of all Sedu<g ref="char:EOLhyphen"/>cers to plead their own Libertie and Toleration; I ſhall there<g ref="char:EOLhyphen"/>fore digreſſe a little, and take into conſideration what another ſubtile (if not Jeſuited) Author argues in this point, for Li<g ref="char:EOLhyphen"/>bertie of Propheſying; The booke is very plauſible, and very taking (as I perceive) with ſome of good parts, and great place, eſpecially in this particular: I thinke it not amiſſe to ſet downe the ſumme of his diſcourſe alſo upon this Text, and to <hi>Antidote</hi> (if poſſible) the Poyſon of both. Thus hee pro<g ref="char:EOLhyphen"/>ceeds:</p>
+            <p>
+               <q>The difficultie of Expoſition of this Text,<note place="margin">D. <hi>Taylor,</hi> Li<g ref="char:EOLhyphen"/>bertie of Pro<g ref="char:EOLhyphen"/>pheſying, <hi>p.</hi> 194.</note> 
+                  <hi>Mat.</hi> 12.24. &amp;c. is reducible to theſe two queſtions.</q>
+            </p>
+            <p n="1">
+               <q>1. What is meant, by (Gather not;) that is, what kind of Sword is forbidden; For the Spirituall Sword, that is not forbidden to any ſort of criminalls, for that would de<g ref="char:EOLhyphen"/>ſtroy the power of Excommunication. It lyes therefore a<g ref="char:EOLhyphen"/>gainſt the Temporall Sword, in cutting off ſome per<g ref="char:EOLhyphen"/>ſons.</q>
+            </p>
+            <p n="2">
+               <q>2. What is meant by Tares, or who thoſe perſons be. They are either perſons of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll lives, <hi>inre practicâ,</hi> or elſe faultie <hi>in re intellectuali,</hi> (in opinion) there is no third. The former is not meant, becauſe it would deſtroy all bodies po<g ref="char:EOLhyphen"/>litique, which cannot conſiſt without a compulſorie power of the Sword. It muſt then he meant of the latter ſort in opinions, commonly called Hereſies. And the reaſon here given confirme this; leaſt you pluck up alſo the Wheat.</q>
+            </p>
+            <p>
+               <q>For, 1. Hereſie is of ſo nice a conſideration, that by our miſtakes wee may root up Truths, when wee thinke to root up Hereſies.</q>
+            </p>
+            <p n="2">
+               <q>2. When a revolution of humane affaires, ſets contrary opinions in the Throne or Chaire, they ſhould root up and perſecute Truths, as they were perſecuted before.]</q> This is the ſumme and ſtrength of his diſcourſe.</p>
+            <p>I ſhall firſt joyne iſſue with the <hi>Doctor,</hi> and ſhew you how
+<pb n="12" facs="tcp:117231:10"/> farre hee agrees with our <hi>Author,</hi> and how farre hee diſagrees with the <hi>Truth</hi> it ſelfe.</p>
+            <p n="1">1. The Doctor, (and ſo our Author) miſtakes the ſcope of the Parable, (beyond which it is not <hi>Argumentative,</hi> as Schol<g ref="char:EOLhyphen"/>lers ſay).<note place="margin">
+                  <hi>Beza</hi> in <hi>Loc.</hi> and others.</note> For that is onely this, ["That there ſhall be a mix<g ref="char:EOLhyphen"/>ture of good and bad in the Church, to the end of the world] Not to ſhew what cenſures are to be inflicted, or what perſons are to be cenſured or tolerated.</p>
+            <p n="2">2. Our Saviour himſelfe tells us who the <hi>t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es</hi> are, <hi>verſ.</hi> 38. <hi>The children of the wicked;</hi> and <hi>verſ.</hi> 41. <hi>All things that offend and doe iniquitie:</hi> So that its apparently meant of ill <hi>livers,</hi> as well as of ill <hi>opinioners.</hi>
+            </p>
+            <p n="3">3. Of evill-livers, it cannot be meant of <hi>open wicked</hi> men, that they ſhould be tolerated, for that would deſtroy, not onely <hi>Civill</hi> Government, but the State it ſelfe and Common-wealth; but of ſecret <hi>Hypocrites,</hi> who are ſo like the Wheat, that wee may eaſily miſtake, and root up one for another.</p>
+            <p n="4">4. It cannot be meant of all offenders, <hi>in re intellectuali,</hi> in opinion: for ſome Heretiques are ſo groſſe, and ſo deſtructive of <hi>Religion, Pietie, and Government,</hi> that the Doctor himſelfe elſewhere grants, yea, proves they may, and muſt be rooted up; yet if his reaſon be of any force, it pleads for <hi>toleration</hi> of all Hereſies; For the Text doth not ſo nicely diſtinguiſh as he does; but ſpeakes indefinitely, if not univerſally, of all tares, <hi>ever clearly diſcovered ſo to be,</hi> (as our Author ſayes) and yet bids the ſervant not <hi>pluck</hi> them up, nor <hi>reſtraine</hi> them; but let them grow. Therefore one of their glaſſes, (if not both) is falſe, and corrupts the Text, inſtead of interpret<g ref="char:EOLhyphen"/>ing it.</p>
+            <p n="5">5. His ſecond Reaſon from the <hi>Revolution</hi> of humane af<g ref="char:EOLhyphen"/>faires, <hi>revolves</hi> upon his owne head: For he grants, yea, affirmes, <q>That thoſe <hi>Hereſies which deſtroyes Fundamentals, or undermine Pietie, or overthrow Government,</hi> may be proſecu<g ref="char:EOLhyphen"/>ted, (<hi>proſecuted</hi> he ſayes, improperly.)</q> Now, if thoſe <hi>Here<g ref="char:EOLhyphen"/>tiques</hi> of thoſe deſtructive opinions, get into the Throne or Chaire, no doubt but they will perſecute the Orthodox, (as
+<pb n="13" facs="tcp:117231:10"/> the <hi>Arrian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> did, and <hi>Papiſts</hi> doe.) Therefore by this reaſon, the moſt groſſe and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eterodox Hereſies muſt be tolerated, lea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wee pluck up the Wheat: that is, give them occaſion when Times turne, to perſecute the Orthodox: This is new Divini<g ref="char:EOLhyphen"/>ty, which the Jeſuits themſelves will ſcarcely owne; I am ſure, where they have powe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, they do not practiſe.</p>
+            <p>And now I re urn to my Author: firſt, obſerve his Lo<g ref="char:EOLhyphen"/>gick, who would conclude a Theologicall Propoſition from a Parable, not conſidering, that it proves nothing beſides the ſcope of it, which is, as I have ſaid, <q>[That theſe ſhall be in the pureſt Churches, a mixt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of bad and good, till the great day of Diſcrimination, the day of Judgement.]</q> The reſt is but a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Lace or Trimmings of the Garment.</p>
+            <p n="2">2. Let him, (or let the Reader) take notice, that this Inter<g ref="char:EOLhyphen"/>pretation of his, utterly deſtroy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s all <hi>Civill</hi> Government, and Eccleſiaſticall too: <hi>Civill,</hi> in that hee acknowledges theſe Tares to be wicked livers, Idola ers, children of the Devill, viſibly diſcovered; and yet allowes neither plucking up, nor reſtraining; which beſides, muſt needs be the deſtruction of Common-wealths: <hi>Eccleſiaſticall,</hi> in as much as the Text hath no deſtruction of Power, Civill, or Eccleſiaſticall, (though ſpeaking of the Church intentionally, it rather re<g ref="char:EOLhyphen"/>ſpects the Eccleſiaſticall then the Civill) and ſaith ind<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly, That none muſt pluck them up nor reſtraine them; which not onely deſtroyes the Cenſure of Excommunication, (as the Doctor afore ſaid) but the Church it ſelfe; which, though Wolves and Foxes over-runne and waſt it, hath no power ſo much as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o reſtraine them, <q>[with out treſpaſſe (as this man ſayes) againſt the expreſſe command of Chriſt, who hath reſerved that worke to his harveſt.]</q> Is not this brave Di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>initie?</p>
+            <p n="3">3. To give him, (or the Reader) further ſatisfaction, take the Parable in thoſe particulars, an Argumentative; wee di<g ref="char:EOLhyphen"/>ſtinguiſh of the perſon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, who may challenge the power of <hi>Reſtraining.</hi> They are either private or publique: A private perſon, a ſervant, (as he was that a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ked the queſtion, whether
+<pb n="14" facs="tcp:117231:11"/> he might pluck up, or reſtraine the Tares) hath not ſuch power to puniſh or reſtraine Idolaters, or wicked livers: But if he ſay, A publique perſon, Civill, or Eccleſiaſticall, hath not ſuch power, he begs the queſtion, and beſides, diſcovers an <hi>Anabaptiſticall</hi> Spirit, denying Magiſtracie and Miniſtry: To which he ſpeake very Suſpiciouſly, <hi>pag.</hi> 7. in proſecution of this in the next argument, when he ſayes. [<hi>the Magiſtrate, (ſo called)</hi> marke, ſo called; as if there were none.</p>
+            <p n="4">4. One thing more; even the letter of the Parable, though it allow not plucking up the Tares; yet in common practiſe, the Husband-men doe reſtraine and keepe them downe, by weeding Hooks, leaſt they over-grow the Wheat: So, (which is our queſtion) there is allowed a Reſtraining of Idolaters, and Heretiques, from ſpreading their Infection, to the de<g ref="char:EOLhyphen"/>ſtruction of the Church. And now we come to his laſt Ar<g ref="char:EOLhyphen"/>gument.</p>
+            <p n="5">
+               <q>5. It is the moſt uſuall thing for Chriſtians indeed, to be plucked up and reſtrained, though under other notions; and that perhaps might be the Reaſon why Chriſt refuſed to ſuffer any reſtraining preſident, though by a Tare diſ<g ref="char:EOLhyphen"/>cerning ſervant: Nothing is more common, then to put a Chriſtian into a Beares skinne, when men intend to bai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him.</q>
+            </p>
+            <p>This was in part the Doctors feare and reaſon: If Here<g ref="char:EOLhyphen"/>tiques get power, they will <hi>proſecute</hi> the Orthodox: <hi>Ergo,</hi> the Orthodox having power, muſt not <hi>proſecute</hi> Heretique<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but ſuffer them to range and ravine, and deſtroy Soules: Put it in ſecond Table wickedneſſes, and ſee the abſur<g ref="char:EOLhyphen"/>dities: If Theeves and Traytors get power, they will perſe<g ref="char:EOLhyphen"/>cute and deſtroy the juſt Magiſtrates: <hi>Ergo,</hi> the Magiſtrate may neither puniſh nor reſtraine Theeves, &amp;c. for freare of Retalitation: Againe, There is nothing more uſuall than for Tyrants and wicked Perſecutors, to pluck up and deſtry Godly Chriſtians under other notions then are true: <hi>Ergo,</hi> Godly Magiſtrates may not <hi>proſecute, (perſecution</hi> is for Truth and the Goſpell ſake) damnable Heretiques, under their own true Notions.</p>
+            <p n="2">
+               <pb n="15" facs="tcp:117231:11" rendition="simple:additions"/>2. This Doctrine, well learn'd and practiſed, would prevent any Perſecution at all; and ſo evacuate all thoſe Propheſies of perſecution; all that will live godly ſhall ſuffer perſecuti<g ref="char:EOLhyphen"/>on, &amp;c. and all thoſe promiſes made to the perſecuted, and all preparations to it, by ſuffering graces, &amp;c. For if there be no <hi>proſecution</hi> for the vileſt Hereſies, not ſo much as a Re<g ref="char:EOLhyphen"/>ſtraint; but a <hi>Toleration</hi> of all Opinions: I hope poore Truth ſhall have a Toleration granted her, as well as others; and then there will be no <hi>perſecution</hi> by the publique Magiſtrate: which yet is eſpecially fore-told, as the worſt piece of perſe<g ref="char:EOLhyphen"/>cution. <q>[Yee ſhall be brought before Kings and Rulers for my names ſake; Scourged in Synagogues, &amp;c.]</q> Had his Doctrine beene practiſed in the Primitive times, it might have prevented much of <hi>perſecution;</hi> Had the Chriſtians but ſaid, Wee will not <hi>proſecute</hi> you for your Idolatries, or damnable Opinions, if wee get into place and Power of Government; doe not you <hi>perſecute</hi> us; Tolerate you us, and wee will tole<g ref="char:EOLhyphen"/>rate you: If God call men to ſuffer under Tyrants and Per<g ref="char:EOLhyphen"/>ſecutors, under what notion ſoever, he knowes how to deliver, ſupport, crowne them for all their ſufferings. And men muſt not cry downe the <hi>Truths</hi> of God, for feare, that if Tyrants get the Throne, they will make Chriſtians ſuffer under other the vileſt notions, even in <hi>Beares skins.</hi>
+            </p>
+            <p>After he hath done with his five Arguments againſt the queſtion ſtated at firſt; He ſtarts an Objection which no wiſe man would make; and gives an anſwer (nothing to the pre<g ref="char:EOLhyphen"/>ſent buſineſſe) meerly to give himſelfe an occaſion, to let fall ſome drops of other poyſonous Opinions, and to diſcover the corruption of his judgement.</p>
+            <p n="1">1. He ſeemes to plead for Blaſphemie, &amp;c. when he cen<g ref="char:EOLhyphen"/>ſures the Parliament at an <q>[Oppreſſing Power; for their Or<g ref="char:EOLhyphen"/>dinance lately renewed, for the reſtraining and puniſhing of men, as Blaſphemers, and Sectaries, for many Points conſo<g ref="char:EOLhyphen"/>nant with ſound Chriſtianitie.</q>
+            </p>
+            <p n="2">2. He ſhewes himſelfe againe a Skeptick, when he ſayes: <q>[So confuſed is the judgement of the univerſall, that we
+<pb n="16" facs="tcp:117231:12" rendition="simple:additions"/> cannot expect a concurrence of any partie conſiderable in the Nation, in Principles of Chriſtianitie.]</q>
+            </p>
+            <p n="3">3. He places all Power of Government in the people, which is the next way to Anarchie; when he ſayes: <q>[I hope here's none that aſpire to any power but what the people ſhall inveſt them with, and may repeale, as they ſhall ſee ſuch their ſervants proceedings conduce to, or againſt their common ſafetie, which by Nature all men are enabled to determine.]</q>
+            </p>
+            <p n="4">4. He Slanders <hi>Presbyterians,</hi> under the name of <hi>Smectim<g ref="char:EOLhyphen"/>nuus;</hi> as Perſecutors, <q>[as in their arbitrarily veſtrie power, having uſed violence, not onely to their fellow ſufferers; but towards even thoſe who w<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d themſelves to effect their freedome,]</q> whereas its evident to all the world, <hi>Preſ<g ref="char:EOLhyphen"/>byterians</hi> have had no Power, (and, never uſed violence to any) and that <hi>Sectaries</hi> have had the greateſt libertie, or <hi>licen<g ref="char:EOLhyphen"/>tiouſneſſe</hi> rather, to vent their Errours; and have offered the greateſt <hi>Perſecutions</hi> by Tongue and Pen, in the moſt opprobri<g ref="char:EOLhyphen"/>ous, reproachfull Language that Hell it ſelfe could lend them; witneſſe all thoſe Scurrillous Pamphlets that have flowne a<g ref="char:EOLhyphen"/>broad theſe three or foure laſt yeares; The Lord lay it not to their charge.</p>
+            <p>This being done, he comes againe to diſpute in many pla<g ref="char:EOLhyphen"/>ces of Scripture more, and then to anſwer ſome Objections. The place is 2 <hi>Tim.</hi> 2.24. <q>[The Servant of the Lord muſt not ſtrive (for his Maſter did it not) but he gentle; (gentle<g ref="char:EOLhyphen"/>neſſe, it ſeemes, beſt befits a Chriſtian, and reſtraines the rebellious) unto all men who oppoſe themſelves (poore Na<g ref="char:EOLhyphen"/>turaliſts, Heathens, Idolaters, &amp;c.) and this ſimple way, is the Lord Chriſts way of reſtraining. Though it confound the wiſedome of the wiſe, and be accounted an in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>let to all manner of Libertiniſme, &amp;c. He will have no unwilling wor<g ref="char:EOLhyphen"/>ſhippers, no civill reſtrainings, &amp;c.]</q>
+            </p>
+            <p>The <hi>Gentleman,</hi> it ſeemes, is well pleaſed with this Argu<g ref="char:EOLhyphen"/>ment that he repeate it againe (though in other tearmes) for he ſaid the ſame in his fourth Argument above, onely with ſome varietie and additions here: Wee might ſend him back
+<pb n="17" facs="tcp:117231:12" rendition="simple:additions"/> thither for his anſwer. But we adde: Note Firſt, The miſ-appli<g ref="char:EOLhyphen"/>cation, or miſ-interpretation of that Text: Wee are ſpeaking of the Magiſtrates Power, and the Text ſpeakes of the Quali<g ref="char:EOLhyphen"/>fication of a <hi>Miniſter,</hi> that hath to doe with Converſion of Infidells and Heathens: Secondly, If he will needs apply it to the Magiſtrate; <q>That he muſt <hi>not ſtrive, but be gentle unto all men that oppoſe themſelves:</hi> He directly deſtroyes all Govern<g ref="char:EOLhyphen"/>ment, and denyes power to reſtraine the moſt wicked Theeves <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd Murtherers, &amp;c.</q> (for they muſt be dealt with as <hi>gently</hi> as others, to convert them) and however, opens a doore to <hi>Di<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ertiniſme</hi> in Chu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch and State: Thirdly, And this he does expreſſely, when he ſayes, <hi>["Chriſt will have no civill reſtraining]</hi> Surely herein, either he ſpeakes againſt his conſcience, or he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nowes not what he ſayes.</p>
+            <p>And now againe he makes an <hi>excurſion</hi> to abuſe the Parlia<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent, by whoſe Commiſſion, he was once a Souldier, and to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nimate his fellowes in deſtructive wayes, wherein I purpoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot to follow him; but conſider what he ſayes to ſome <hi>Obje<g ref="char:EOLhyphen"/>tions</hi> againſt himſelfe, and his owne Opinion.</p>
+            <p>
+               <hi>Obj.</hi> 1. The <hi>Jewiſh</hi> Magiſtrates reſtrained Idolaters of old, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd that as being againſt the light of naturall Government, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey may doe ſo now.</p>
+            <p>
+               <q>In anſwer to this; Let us examine the ground of Idola<g ref="char:EOLhyphen"/>ters being puniſhed; wee find it in theſe three things.</q>
+            </p>
+            <p n="1">1. <q>That they never puniſhed them till they were comman<g ref="char:EOLhyphen"/>ded from Heaven to doe it, <hi>Exod.</hi> 22.20.</q>
+            </p>
+            <p>But wee Reply; If that Commandement be according to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he light of nature, it bound them before, though they knew <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not, or practiſed it not: There are other Commandements here ſpecified, which are according to the light of nature, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e tranſgreſſion whereof was puniſhable; though perhaps, be puniſhed, till there were a ſetled Common-wealth: Now <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l Nations puniſhed or reſtrained thoſe that blſaphemed their Gods: It being a principle of nature, that God muſt be wor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hipped alone, and that with his owne worſhip. And may be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid of ſome tranſgreſſions of the Commandements of the
+<pb n="16" facs="tcp:117231:13" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:117231:13" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:117231:14"/> ſecond Table, which are according to the light of nature, that they did not puniſh them, till they were commanded from Heaven to doe it.</p>
+            <p n="2">2. <q>The people, as well as the Magiſtrate, had an hand in puniſhing the Idolater, <hi>Deut.</hi> 13.9.</q>
+            </p>
+            <p>
+               <hi>Repl.</hi> The hand of the people was in it; either as accuſer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> Thou ſhalt not conceale him, <hi>verſ.</hi> 8. or as witneſſes, as <hi>Deut.</hi> 17.7. or as executioners, in helping to put him to death; but the man was brought to the <hi>gates,</hi> the <hi>place</hi> of Judgement, <hi>verſ.</hi> 5. and ſo the condemning and <hi>Judging</hi> power was in the Magiſtrate.</p>
+            <p n="3">3. <q>The puniſhment is exactly there deſcribed, and ſo wee muſt not mangle it, if wee make that our Rule. Death even to wives, or neereſt relations, was here commanded.</q>
+            </p>
+            <p>
+               <hi>Repl.</hi> There is a diſtinction to be made, betweene the Mo<g ref="char:EOLhyphen"/>rall and Judiciall part of a Commandement in the Old Teſta<g ref="char:EOLhyphen"/>ment: When the ſubſtance of a Commandement is Morall, it binds ever; though the circumſtances which are Judiciall, may be varied. It were eaſie to inſtance in ſeverall Comman<g ref="char:EOLhyphen"/>dements, if it were needfull. But he goes on.</p>
+            <p>
+               <q>All which indeed did lively repreſent, in every of theſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> particulars the power of Chriſt, and the Spirituall order of his Church in the Goſpell, &amp;c. and therefore in order to that worke, his ſervants are to converſe with Idolaters, and may have civill ſocietie with them alſo, 1 <hi>Cor.</hi> 5.10. <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>This is the common evaſion, to make all <hi>Typicall</hi> in the Old Teſtament: And thereupon ſome have quite diſ-a-vow<g ref="char:EOLhyphen"/>ed any proofe from the Old Teſtament, and in time have come to caſt off the New alſo, and are turned <hi>Anti-Scripturiſts.</hi> But I pray, may wee not (as <hi>Anabaptiſts</hi> doe) as well caſt off the power of the Migiſtrate in puniſhing wickedneſſes of the ſe<g ref="char:EOLhyphen"/>cond Table, and ſay, The Magiſtrates and their Acts of Pow<g ref="char:EOLhyphen"/>er were all Typicall; and repreſented the power of Chriſt, and the Spirituall Order of his Church in the Goſpell? For the reſt of his anſwer, he ſeemes to diſtinguiſh betweene Con<g ref="char:EOLhyphen"/>verſe, and having civill ſocietie with Idolaters: If he take them
+<pb n="19" facs="tcp:117231:14"/> for both one; its granted, and his Text allowes it; Neceſ<g ref="char:EOLhyphen"/>ſitie of converſing, or having civill ſocietie with them, eſpe<g ref="char:EOLhyphen"/>cially in thoſe times, when they were moſt Heathens, exe<g ref="char:EOLhyphen"/>cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed their ſocietie; and may doe ſo now in the like caſes: yea, Chriſtians may Converſe with them, to convert them in their owne Countries. But what's this to the point in hand, whether Magiſtrates Chriſtian may reſtraine Idolaters in their owne Land, from exerciſing their Idolatrie openly, to the ſeducing of others, as well as the publique diſhonour of God? Till this be proved, let him know, It is an <hi>unchriſtian ſlander,</hi> to ſay, <q>[That the Civill Sword in Spirituall Affaires, is (in its owne nature) a Supporter of the <hi>Beaſt;</hi>]</q> It hath beene ſo, by accident abuſed, the Magiſtrates themſelves being <hi>Anti<g ref="char:EOLhyphen"/>chriſtian;</hi> But if the Magiſtrate be Chriſtian and Godly, no<g ref="char:EOLhyphen"/>thing is more deſtructive of the <hi>Beaſts</hi> power, as experience hath proved; and nothing which the <hi>Beaſt</hi> doth more oppoſe, then the Magiſtrates power in Spirituall Affaires; as tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which hath and doth, and will at laſt utterly deſtroy his Uſur<g ref="char:EOLhyphen"/>ped Kingdome, <hi>Rev.</hi> 17.16. Chriſts weapons are very good, and alone powerfull to make true Chriſtians, but the Ma<g ref="char:EOLhyphen"/>giſtrates Sword is alſo uſefull, to regulate them, when ſo made.</p>
+            <p>
+               <hi>Obj.</hi> 2. But would you have Idolaters to dwell amongſt us? men may then live as they liſt. To this he anſwers:</p>
+            <p>
+               <q>I would indeed have all Jewes or Heathens, or what ever Ignorants are native, as freely to Converſe as Commerce with you, without reſtraint upon Religious Cauſes; and that you would conſider, your ſelves might never have beene Converted, if you ſhould not ſo have beene freely ſuffered, &amp;c.</q>
+            </p>
+            <p>
+               <hi>Repl.</hi> 1. What ever this man would have, I am ſure the A<g ref="char:EOLhyphen"/>poſtle would not have Chriſtians freely to Converſe (which imports familiaritie, intimacie) with Idolaters, no not in Ci<g ref="char:EOLhyphen"/>vill Affaires, 2 <hi>Cor.</hi> 6.14. [<hi>Be not</hi> unequally yoked together (in Marriage; he meanes) <hi>with Infidells or <g ref="char:V">Ʋ</g>nbeleevers;</hi> And <hi>verſ.</hi> 17. Summon all Chriſtians, <hi>to come out from among</hi>
+               <pb n="20" facs="tcp:117231:15" rendition="simple:additions"/> them, and bee <hi>Separate;</hi> and <hi>touch not the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> things.</hi>
+            </p>
+            <p n="2">2. When he addes, <hi>["without Reſtraint upon Religious Cauſes]</hi> it may be meant there; Firſt, That they ſhall have free liber<g ref="char:EOLhyphen"/>tie to come to our Aſſemblies to heare the Word; and that wee may diſcourſe with them, as occaſion is offered, to con<g ref="char:EOLhyphen"/>vert them; or, Secondly, That they ſhall have libertie to Erect Synagogues, or build Temples to Exerciſe their Idolatries, in Chriſtian <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingdomes, and ours be permitted freely to goe to their meetings, where great danger of corruption of ours, (our nature being made prone to Hereſie and Idolatrie, as fruits of the fleſh) than hope of our Converſion of them: If in the former ſenſe he meane it, wee grant it; for otherwiſe, wee, or rather our fathers, had never beene Converted: They may come to us, as Heathens of old might Proſelyte to the Jewes. If in the latter ſenſe; it is (wee thinke) clearely a<g ref="char:EOLhyphen"/>gainſt Scripture ſide and the Saints practiſe: Wee may not goe to them to their Idolatrous Temple, nor make marriage with them, &amp;c. nor yet ſuffer ours to be Seduced by them: And here comes in the Reſtraint wee ſpeake of, by Superiours, Fathers, Maſters, Magiſtrates eſpecially; for the reaſon being the ſame, and perpetually Morall, it concernes the Chriſtian Magiſtrate in the Goſpell, as well as the Jewiſh Magiſtrate. Nor does this reprove Chriſt for providing no other meanes to reſtraine from Idolatry (which he inferres.) For Chriſt hath provided other meanes, even this power of Superiours in the ſenſe aforeſaid. And I pray, did this man never heare of whole Churches, ſubverted by Heretiques and Idolaters? What thinks he of the ſeven Churches of <hi>Aſia,</hi> and the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Church it ſelfe, which he acknowledges and calls Anti<g ref="char:EOLhyphen"/>chriſtian? Have not Seducers and Idolaters, by degrees, ut<g ref="char:EOLhyphen"/>terly ſubverted them? Yet they, whoſe names are written in the Booke of Life, ſhall be preſerved unto Heaven, when the reſt ſhall periſh by his Toleration.</p>
+            <p>
+               <hi>Obj.</hi> 3. But allow this, and wee may quickly have our Civill State ſubverted? He anſwers.</p>
+            <pb n="21" facs="tcp:117231:15"/>
+            <p>
+               <q>To this the experience of other Nations might bee a ſufficient anſwer: the <hi>Hollanders</hi> flouriſhing ever ſince they ſuffered every man to worſhip according to his conſcience, even Jewes themſelves, &amp;c.</q>
+            </p>
+            <p>
+               <hi>Repl.</hi> That <hi>proſperitie</hi> and flouriſhing ſhould bee made a Marke of the <hi>Goodneſſe</hi> of a State or Church, (by any but a Je<g ref="char:EOLhyphen"/>ſuit) is to me very ſtrange. More, that the <hi>Hollanders</hi> ſhould be made a patterne of a true Reformed State. And he may re<g ref="char:EOLhyphen"/>member, that if the <hi>Arminian</hi> Errours had prevailed in <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> but for a Toleration; It was feared they had ere long ſubverted the State, and reduced it into the King of <hi>Spains</hi> hand againe. As for other States, even the <hi>Roman</hi> it ſelfe, conſide<g ref="char:EOLhyphen"/>red either as <hi>Heathen Idolaters,</hi> when they had a <hi>Pantheen</hi> of Gods, and every one ſuffered [<hi>to worſhip according to his Conſci<g ref="char:EOLhyphen"/>ence:</hi> or as <hi>Antichriſtian</hi> Idolaters; ſince they worſhipped the Hoſt and Images, they flouriſhed in both Eſtates: And proſ<g ref="char:EOLhyphen"/>peritie is rather a Marke of a falſe, than a true Church: Yea, when <hi>Rome</hi> it ſelfe began to be Antichriſtian, all Hiſtories tel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us, how the State of the Empire, was ſubverted and taken from the Emperours, and given to the Pope.</p>
+            <p>
+               <q>But (ſayes he) obſerve, that whileſt every man enjoyes his libertie, it is his proper Intereſt, to endeavour the preſer<g ref="char:EOLhyphen"/>vation of that Common-wealth; for in that he preſerves himſelfe, &amp;c.</q>
+            </p>
+            <p>But (ſay I) this is Athieſticall, prophane Policie. Indeed, if there were no God<g ref="char:punc">▪</g> or nothing to be reſpected but mens own <hi>Quiet</hi> and Intereſt, this were a fine way: All Errours will reaſonably well agree together (as the Devills doe in Hell.) But if men have any conſcience of their owne dutie, in a <hi>zea<g ref="char:EOLhyphen"/>lous</hi> promoting of Gods glory, in an <hi>earneſt contending for the Faith once delivered to the Saint,</hi> Jud. v. 3. or in a <hi>charitable care</hi> over the Soules of other men, this <hi>Intereſt</hi> would be quickly layd aſide. Is it not the dutie of every Superiour, Father, Ma<g ref="char:EOLhyphen"/>ſter, Magiſtrate, to advance the glory of God, and to ſecure the Soules of their Inferiours as well as their bodies? Concernes it not every faithfull Miniſter, Yea Chriſtian, to maintain the
+<pb n="22" facs="tcp:117231:16"/> Truth, and oppoſe Error? This man ſpeakes of a Matchia<g ref="char:EOLhyphen"/>vilian politique Religion, without any <hi>zeale</hi> for God, any <hi>charitie</hi> to mens ſoules, where <hi>ſelfe-love,</hi> and ſelfe-quiet, &amp;c. onely predominates. And if it be the dutie of every one, (as it is) <hi>to contend earneſtly for the Faith,</hi> will not this meet with much oppoſition, by hereticall Spirits? And will not that cauſe the moſt <hi>mortall</hi> diviſions, and ſo procure ruine to the Church firſt, and then to the State? Truth <hi>muſt</hi> oppoſe Errours: and Errours <hi>will</hi> oppoſe Truth: And if there be but one Truth, and many Errours, will not all Errours oppoſe that one Truth, though they tolerate one another? The reaſon is, Errours are but <hi>Diverſa,</hi> Divers (for the moſt part) amongſt themſelves; but Truth and Errours are <hi>Contraria,</hi> Contra<g ref="char:EOLhyphen"/>ries, and can no more be reconciled, than Light and Dark<g ref="char:EOLhyphen"/>neſſe. I ſhall give him but one inſtance; at <hi>Rome</hi> it ſelfe; where almoſt all Errours and Sects are tolerated, onely Pro<g ref="char:EOLhyphen"/>teſtants are not tolerated; becauſe Proteſtant Truths oppoſe all Errours, <hi>Romiſh</hi> as well as others.</p>
+            <p>Now marke what will be the iſſue of ſuch a <hi>Toleration</hi> as the <hi>Gentleman</hi> pleads for, <hi>viz.</hi> a <hi>Subverſion and utter Suppreſſion of Truth, by the joynt oppoſition of all Errours at once]</hi> And I am con<g ref="char:EOLhyphen"/>fident, this is the laſt and moſt deſperate <hi>Deſigne</hi> of Antichriſt, and his <hi>Agitators</hi> the Jeſuits, to deſtroy this Church and State, and to ſubdue it unto <hi>Antichriſt.</hi> They have tryed all wayes by <hi>fraud</hi> and <hi>violence,</hi> to effect this: nothing (bleſſed be God, will yet doe it. Now their laſt <hi>refuge</hi> is, a Toleration of all Religions; and Poperie, its hoped, ſhall have a place amongſt them. Which if it be granted, I dare be a <hi>Prophet,</hi> that Pope<g ref="char:EOLhyphen"/>rie ſhall ſwallow up all the other Errours, and bring them all to it ſelfe; but poore Truth onely ſhall be denyed a Tolerati<g ref="char:EOLhyphen"/>on. For whereas before, wee had onely or chiefly <hi>Poperie</hi> to oppoſe, now all the <hi>Sects</hi> and Errours will joyntly fight a<g ref="char:EOLhyphen"/>gainſt us. And beſides, All the <hi>Sests</hi> in ſome things agree with <hi>Papiſts</hi> alreadie: All the <hi>Arminian</hi> Points (which are <hi>blanch<g ref="char:EOLhyphen"/>ed</hi> Poperie) having beene kept out at the <hi>fore-doore,</hi> are crept in at the <hi>back-doore</hi> of Connivence, and Preached and main<g ref="char:EOLhyphen"/>tained
+<pb n="23" facs="tcp:117231:16"/> by moſt of the <hi>Sectaries,</hi> and new <hi>Jeſuiticall</hi> Seducers. How eaſie then is it, for <hi>Papists</hi> and them to be reconciled <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the reſt, by a Jeſuiticall ſubtile wit? So in the <hi>laſt ruine,</hi> Poperie will be predominant. Yea, thoſe very men, that now <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry up <hi>Toleration,</hi> when once they have gotten power, will cry <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owne Toleration, not onely of true Porteſtant Religion, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut alſo of any <hi>Sect,</hi> unleſſe it comply with their ends, as ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erience tells us, in their owne Countries. They that now cry <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut of <hi>Perſecution</hi> of their Errours, will be the greateſt Perſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>utors of the Truth. Oh the <hi>Stupiditie,</hi> ſhall I ſay, or <hi>giddi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe</hi> of the people of this Nation! who are <hi>bewitched</hi> with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſuiticall Counſells, to haſten their owne and our ruine. Oh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the honeſt men in the Armie, would but ſee how they do, not onely the <hi>Cavaliers worke</hi> in the State, but the <hi>Jeſuits worke</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lſo in the Church, to the deſtruction of both. The Lord a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aken and open their eyes betimes, to ſee the things that be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong to their and our Peace, before it be too late, and they be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id from their eyes.</p>
+            <p>
+               <q>Yet further: A State (ſayes he) cannot be ſubverted, but either by force, or by a generall conſent. The force is eaſily prevented, when the firſt thirtie men, meeting in Armes, for ſuch an end, are by the Law Traytors, and may be proceeded againſt accordingly: And no man can ima<g ref="char:EOLhyphen"/>gine it poſſible to ſubvert the State by a generall conſent, when there will be ſuch varietie of judgements, and every man is free, and in feare of a change, leaſt he be a loſes by it.</q>
+            </p>
+            <p>In anſwer, wee ſay, Firſt, a State may be ſubverted by <hi>fraud</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſubtiltie, and that's the way now in <hi>Agitation:</hi> But ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ondly, I am glad to heare him ſay, <q>[Force may eaſily a (marke that, eaſily) be prevented, when the firſt thirtie men meeting in Armes, are by the Law Traytors, and may be proceeded againſt accordingly.]</q> I feare the Armie will give him little thankes for this Diſcoverie. For what is the great pretence for all the irregular motions of the Armie, but an <hi>impoſſibilitie:</hi> to prevent the <hi>Force</hi> of the contrarie partie, had
+<pb n="24" facs="tcp:117231:17"/> the <hi>Treatie</hi> gone on effectually? And this friend of their<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſayes plainly and honeſtly; <hi>Force</hi> may <hi>eaſily</hi> be prevented by ſuch a Law. Such a Law there is not yet eſtabliſhed, but ſuch a Law was intended in the Propoſitions to the King; and if this might eaſily prevent Force; all pretences of Impoſſibili<g ref="char:EOLhyphen"/>tie are hereby made voyd. Let all the people heare this. Thus God catches the wiſe in their owne craftineſſe, and makes them betray themſelves: Thirdly, But may not a State be ſub<g ref="char:EOLhyphen"/>verted by conſent? No: <q>[becauſe there will be varietie of judge<g ref="char:EOLhyphen"/>ments, &amp;c.]</q> There may be varietie of judgements, and all differing from the Truth; but who knowes not that Errours agree in the root; and moſt of them bordering upon Popery, (which is naturall in many points to all men, as might be proved) how eaſie then is it to reconcile them all againſt the Truth, to the ſubverſion of the <hi>Church</hi> firſt, and the <hi>State</hi> next. Nor need they feare a <hi>change,</hi> or to be <hi>loſers</hi> by it; for all Sects (its obſervable enough) propound one common end to themſelves, <hi>Libertie;</hi> and Poperie is a Religion of Libertie enough: and ſo no loſers by it.</p>
+            <p>
+               <hi>Obj.</hi> 4. There is one Objection more come lately to his knowledge, and that is this: How can it be called an Agree<g ref="char:EOLhyphen"/>ment of the people, when many thouſands (otherwiſe faith<g ref="char:EOLhyphen"/>full) in conſcience cannot ſubſcribe to it; if you diſ-allow of this Civill Reſtrictive power, &amp;c. He ſayes,</p>
+            <p>
+               <q>That the Title of (Agreement) imports nothing without Relation to the Subſtance following, which is, for the foundation of Future Peace and Freedome: and he that layes a foundation of ſlaverie, to pleaſe Oppreſſours, when he proclaims out Freedom, ſhall not anſwer that Agreement, but the carnall heart of a deceitfull Tyrant. Nor deſerves he to be accounted faithfull, but deprives himſelfe of prof<g ref="char:EOLhyphen"/>fered Priviledge and Freedome, that cannot ſubſcribe or agree thereto, except he may make all others his ſlaves, &amp;c.</q>
+            </p>
+            <p>This is plaine dealing indeed; Here he tells us, Firſt, That <hi>Reſtricto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> power, is Oppreſſive, Tyrannicall, Antichriſtian; which yet is proved, to be the very <hi>ordinance</hi> of God; unleſſe
+<pb n="25" facs="tcp:117231:17" rendition="simple:additions"/> he will ſay, That Reſtrictive power in the Jewiſh Magiſtrates, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as Oppreſſive, Tyrannicall, Antichriſtian: The <hi>Conſciences</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f thoſe Times, ought no more to be <hi>reſtrained</hi> or complled, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>han now under the Goſpell. Secondly, He tells you what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou muſt truſt to, be you otherwiſe never ſo <hi>Faithfull;</hi> If you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>annot in conſcience ſubſcribe that <hi>Agreement,</hi> you muſt not be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccounted <hi>Faithfull,</hi> nor may you expect any Priviledge or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reedome; So that the more <hi>Faithfull</hi> and Conſciencious a <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an is, the more he deprives himſelfe of the <hi>proffered Freedome,</hi> which is by another diſcovered to be preſent <hi>Slaverie.</hi>
+               <note place="margin">M. <hi>Aſhurſt,</hi> his Reaſons, &amp;c.</note>) And <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e more falſe and looſe a man is, the more benefit ſhall he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave by that <hi>Agreement,</hi> a Libertie of Conſcience to profeſſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Errours he will, and a Licentiouſneſſe of life to doe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he liſt, being himſelfe made a Judge of his ſubſcribed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>greement. Beſides, he ſeemes to contradict here what he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ranted above, a <hi>Libertie to every man,</hi> pag. 14. <hi>to worſhip God <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cording to his Conſcience.</hi> Which, if it muſt be granted to all; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as by his Doctrine it muſt) why ſhall not thoſe that have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eene <hi>Faithfull,</hi> who cannot in <hi>Conſcience,</hi> conſent or ſubſcribe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o that <hi>Agreement,</hi> have their <hi>Libertie</hi> of Conſcience as well as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thers? But I pray, <hi>Chriſtians,</hi> take notice what you ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect from theſe <hi>Jeſuiticall</hi> Deſignes. You ſhall be <hi>tolerated</hi> ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong as you agree with them, in their <hi>Deſtructive</hi> Principles, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd when they have gotten you i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſuch a <hi>ſnare,</hi> that you can <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Conſcience</hi> proceed no further, farewell your Priviledges and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reedome. You ſhall then be made the vileſt ſlaves to <hi>Jeſuiti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> Luſts, and your pretended Toleration end in Intollerable <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>averie,</hi> and bittereſt <hi>perſecution.</hi> Conſider what I have ſaid, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Lord give you underſtanding in all things.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
